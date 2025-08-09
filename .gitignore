@@ -1,0 +1,18 @@
+# Ignorar entorno
+.env
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
